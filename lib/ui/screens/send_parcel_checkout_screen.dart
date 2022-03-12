@@ -136,7 +136,7 @@ class _SendParcelCheckoutScreenState extends State<SendParcelCheckoutScreen> {
                 style: Theme.of(context).textTheme.headline4,
               ),
               Text(
-                "Galih Previand\n GalihPreviand27@gmail.com\n 081222022\n Mondoroko Selatan Singosari,Malang", // (\n untuk enter)
+                "Galih Previand\nGalihPreviand27@gmail.com\n081222022\nMondoroko Selatan Singosari,Malang", // (\n untuk enter)
                 style: Theme.of(context).textTheme.headline5,
               ),
             ],
